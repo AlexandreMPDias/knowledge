@@ -13,6 +13,9 @@
 - [deviantArt](https://www.deviantart.com/)
 - [undraw](https://undraw.co/illustrations)
 
+#### Fonts
+- [Google Fonts](https://fonts.google.com/)
+- [Dafont](https://www.dafont.com/pt/)
 
 #### Misc
 - [save.it](https://savee.it/)
